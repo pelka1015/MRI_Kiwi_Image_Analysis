@@ -54,7 +54,7 @@ kiwi_MRI_analysis/
 
 
 
-## 🖥 Each generated file is a NIfTI (.nii.gz) image that can be viewed using standard medical image viewers such as:
+## 🖥 Each generated file is a NIfTI (.nii.gz) so it can be viewed by using standard medical image viewers such as:
 
 - ITK-SNAP (I’ve worked with this software)
 - 3D Slicer
