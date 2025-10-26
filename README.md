@@ -15,6 +15,7 @@ The project applies advanced **image processing** techniques including contrast 
 
 ---
 
+
 ## 🧠 Method Overview
 
 1. **Preprocessing** — Contrast enhancement and noise reduction  
@@ -22,6 +23,9 @@ The project applies advanced **image processing** techniques including contrast 
 3. **Axis Detection** — Fit a central line through the kiwi core  
 4. **Seed Segmentation** — Region-growing and radial gradient masking  
 5. **Mask Comparison** — Evaluate segmentation accuracy vs. reference  
+
+Precise explanation:
+[presentation.pdf](https://github.com/user-attachments/files/23152903/presentation.pdf)
 
 ---
 
