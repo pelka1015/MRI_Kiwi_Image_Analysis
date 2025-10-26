@@ -29,7 +29,7 @@ Precise explanation:
 
 ---
 
-## 📂 Directory Setup
+## 📂 Setup
 
 Before running the script, organize your files as follows:
 ```bash
@@ -58,7 +58,7 @@ kiwi_MRI_analysis/
 
 
 
-## 🖥 Each generated file is a NIfTI (.nii.gz) so it can be viewed by using standard medical image viewers such as:
+🖥 Each generated file is a NIfTI (.nii.gz) so it can be viewed by using standard medical image viewers such as:
 
 - ITK-SNAP (I’ve worked with this software)
 - 3D Slicer
@@ -78,6 +78,11 @@ kiwi_MRI_analysis/
 
 ---
 
-## 🧠 Citation
+## ✒️ Authors
+- Patryk Pełka
+- Robert Wewersowicz
+
+---
+🧠 Citation
 
 If you use this project in academic work, please cite or reference this repository.
